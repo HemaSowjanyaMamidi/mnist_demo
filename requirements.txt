@@ -1,0 +1,9 @@
+Flask>=0.8
+gunicorn==19.9.0
+itsdangerous>=2.0
+Jinja2>=3.0
+MarkupSafe>=2.0
+Werkzeug>=2.2.2
+numpy>=1.9.2
+tensorflow==2.12.0
+Pillow==8.4.0
